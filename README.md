@@ -1,1 +1,1 @@
-# common-components
+Ez egy egyszerű footer
